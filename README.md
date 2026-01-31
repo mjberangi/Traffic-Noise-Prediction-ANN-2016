@@ -33,5 +33,5 @@ The data is split randomly as follows, matching the paper's methodology:
    ```bash
    pip install -r requirements.txt
 
-   ## Citation
+## Citation
 > Mansourkhaki, A., Berangi, M., Haghiri, M., & Haghani, M. (2018). A neural network noise prediction model for Tehran urban roads. Journal of Environmental Engineering and Landscape Management, 26(2), 88–97. https://doi.org/10.3846/16486897.2017.1356327
