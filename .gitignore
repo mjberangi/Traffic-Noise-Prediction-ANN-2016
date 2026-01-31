@@ -1,0 +1,10 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Data
+data/raw_data.csv
+
+# OS generated files
+.DS_Store
+Thumbs.db
