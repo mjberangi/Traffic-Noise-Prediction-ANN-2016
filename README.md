@@ -1,7 +1,7 @@
 # Traffic Noise Prediction using ANN (Tehran Case Study)
 
 ## Overview
-This repository contains a Python implementation of the research paper **"A Neural Network Noise Prediction Model for Tehran Urban Roads 2015"** [link text](https://scholar.google.com/citations?user=k6hDU6sAAAAJ&hl=en).
+This repository contains a  simple Python implementation of the research paper **"A Neural Network Noise Prediction Model for Tehran Urban Roads 2015"**  with a synthetic data. >> [link text](https://scholar.google.com/citations?user=k6hDU6sAAAAJ&hl=en).
 
 The project predicts the equivalent sound level ($L_{Aeq}$) based on traffic and environmental characteristics using a Multilayer Perceptron (MLP) Artificial Neural Network. It compares the ANN performance against a Multiple Linear Regression model.
 
