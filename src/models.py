@@ -3,7 +3,7 @@ from sklearn.linear_model import LinearRegression
 
 def get_ann_model():
     """
-    Returns the ANN model with the desired configurations.
+    Returns the ANN model with the desired configurations in Table 6 of the paper.
     
     Structure: 6 Inputs -> 10 Hidden Neurons -> 1 Output
     Activation: Sigmoid (Logistic) 
